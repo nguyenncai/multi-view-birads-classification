@@ -1,5 +1,6 @@
 # Dual-Branch Ensemble for Multi-View BI-RADS Classification
 
+📌 **[Download Model Weights (Google Drive)](https://drive.google.com/drive/folders/1SaGaN1Sbwpe0E43wEQmERqZ7qMJDsrw6?usp=drive_link)**
 A deep learning model for **5-class BI-RADS mammography classification** (BI-RADS 1–5) using 4-view input (R_CC, R_MLO, L_CC, L_MLO) from the VinDr-Mammo dataset.
 
 ## Architecture
